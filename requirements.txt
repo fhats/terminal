@@ -1,0 +1,6 @@
+pyramid==1.4
+tornado==2.4.1
+sqlalchemy==0.8
+pyramid_jinja2==1.6
+jinja2==2.6
+testify==0.3.8
